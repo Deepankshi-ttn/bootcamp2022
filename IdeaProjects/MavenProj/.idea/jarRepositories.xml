@@ -17,6 +17,11 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="java-junit-repo" />
+      <option name="name" value="java-junit-repo" />
+      <option name="url" value="https://mvnrepository.com/artifact/junit/junit" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="junit-repository" />
       <option name="name" value="junit-repository" />
       <option name="url" value="https://mvnrepository.com/artifact/junit/junit" />
